@@ -1,0 +1,6 @@
+{
+  "name": "ChatLanka",
+  "description": "Nostalgic mid-2000s retro chat web-themed community forum application with live shoutboxes, board discussions, private terminals, and active AI-simulated characters powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main Chat bubble (Yellow) -->
+    <path
+        android:fillColor="#FFFF00"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 30,35 h 48 c 5,0 9,4 9,9 v 22 c 0,5 -4,9 -9,9 h -10 l -12,12 v -12 h -26 c -5,0 -9,-4 -9,-9 v -22 c 0,-5 4,-9 9,-9 z" />
+        
+    <!-- Tiny eyes or indicators on yellow bubble -->
+    <path
+        android:fillColor="#004B87"
+        android:pathData="M 45,50 a 3,3 0 1,1 -0.001,0" />
+    <path
+        android:fillColor="#004B87"
+        android:pathData="M 63,50 a 3,3 0 1,1 -0.001,0" />
+        
+    <!-- Overlapping tiny chat bubble (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#0288D1"
+        android:strokeWidth="1.2"
+        android:pathData="M 62,54 h 22 c 3,0 5,2 5,5 v 11 c 0,3 -2,5 -5,5 H 77 L 71,81 v -6 H 62 c -3,0 -5,-2 -5,-5 v -11 c 0,-3 2,-5 5,-5 z" />
+</vector>
